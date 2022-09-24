@@ -60,11 +60,11 @@ function App() {
 
   if (isModelLoading) {
     return (
-      <div className="container mt-5 pt-5 me-5">
-        <div class="spinner-border" role="status">
-          <span class="visually-hidden">Loading...</span>
-        </div>
+      <div class="text-center mt-5 pt-5 loading">
+      <div class="spinner-border text-light" role="status">
+        <span class="visually-hidden">Loading...</span>
       </div>
+    </div>
     );
   }
 
