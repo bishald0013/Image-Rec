@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(45deg, rgb(149, 10, 155) 0%, rgb(149, 10, 155) 9%,rgb(120, 16, 136) 9%, rgb(120, 16, 136) 13%,rgb(178, 3, 174) 13%, rgb(178, 3, 174) 32%,rgb(91, 23, 117) 32%, rgb(91, 23, 117) 42%,rgb(32, 36, 79) 42%, rgb(32, 36, 79) 46%,rgb(61, 30, 98) 46%, rgb(61, 30, 98) 70%,rgb(3, 43, 60) 70%, rgb(3, 43, 60) 100%);
+}
+
+.left-cont{
+    margin-top: 15rem;
+}
+
+.right-cont{
+    margin-top: 13rem;
+}
+
+img{
+    width: 30%;
+}
